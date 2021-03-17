@@ -1,0 +1,18 @@
+.tag {
+    width: 500px;
+    height: 290px;
+    flex-wrap: wrap;
+}
+
+.Greeting {
+    height: 90px;
+}
+
+.Name {
+    height: 150px;
+}
+
+.Footer {
+    height: 50px;
+}
+
